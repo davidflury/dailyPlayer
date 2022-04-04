@@ -1,4 +1,6 @@
 resources/
+feiertage/
+tagesimpuls/
 
 .vscode/*
 !.vscode/settings.json
